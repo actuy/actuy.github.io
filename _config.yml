@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Zhang (章晨)"
-description              : "Focusing on speech, music and multi-modal learning "
+description              : "Focusing on speech, music and multi-modal learning"
 repository               : "actuy/actuy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Zhang (章晨)"
   avatar           : "images/avatar.png"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, Zhejiang, China"
+  bio              : "ByteDance"
+  location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eBBFeVcAAAAJ"
-  email            : "zc99@zju.edu.cn"
+  email            : "zc99mail@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
