@@ -1,5 +1,6 @@
 # 📝 Publications 
 ## 🎙 Speech Translation and Synthesis
+- ``TASLP`` [RefXVC: Cross-Lingual Voice Conversion with Enhanced Reference Leveraging](https://arxiv.org/abs/2406.16326)
 - ``ICLR 2024`` [Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech Prompts.](https://arxiv.org/abs/2307.07218) \| [**Project**](https://mega-tts.github.io/mega2_demo/) 
 - ``ICLR 2023`` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn) \| [**Project**](https://unsupertts-tricks.github.io/) 
 - ``ICASSP 2021`` [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547) \| [**Project**](https://speechresearch.github.io/denoispeech/)
@@ -11,6 +12,7 @@ expressive-emphatic-ttsdemo.github.io/)
 
 ## 🎼 Music Generation and Retrieval
 - ``TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://arxiv.org/abs/2211.00222) \| [**Project**](https://sdmuse.github.io/posts/sdmuse/) 
+- ``TAFFC`` [REMAST: Real-time Emotion-based Music Arrangement with Soft Transition](https://arxiv.org/abs/2305.08029)
 - ``ACM-MM 2022`` [ReLyMe: Improving Lyric-to-Melody Generation by Incorporating Lyric-Melody Relationships](https://dl.acm.org/doi/abs/10.1145/3503161.3548357) \| [**Project**](https://ai-muzic.github.io/relyme/) 
 - ``ACM-MM 2022`` [SongDriver: Real-time Music Accompaniment Generation without Logical Latency nor Exposure Bias](https://dl.acm.org/doi/abs/10.1145/3503161.3548368)
 - ``ISMIR 2022`` [PDAugment: Data Augmentation by Pitch and Duration Adjustments for Automatic Lyrics Transcription](https://archives.ismir.net/ismir2022/paper/000054.pdf)
@@ -19,7 +21,8 @@ expressive-emphatic-ttsdemo.github.io/)
 - ``EMNLP 2022`` [TeleMelody: Lyric-to-Melody Generation with a Template-Based Two-Stage Method](https://aclanthology.org/2022.emnlp-main.364/) \| [**Project**](https://ai-muzic.github.io/telemelody/) 
 
 ## 🧑‍🎨 Multi-modal Learning
-- ``ICLR 2024`` [Real3d-portrait: One-shot realistic 3d talking portrait synthesis](https://openreview.net/forum?id=7ERQPyR2eb) \| [**Project**](https://real3dportrait.github.io/)
+- ``NeurIPS 2024`` [MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes](https://openreview.net/forum?id=gjEzL0bamb) \| [**Code**](https://mimictalk.github.io/) ![Github Stars](https://img.shields.io/github/stars/yerfor/MimicTalk?style=social).
+- ``ICLR 2024`` [Real3d-portrait: One-shot realistic 3d talking portrait synthesis](https://openreview.net/forum?id=7ERQPyR2eb) \| [**Project**](https://real3dportrait.github.io/) \| [**Code**](https://github.com/yerfor/Real3DPortrait) ![Github Stars](https://img.shields.io/github/stars/yerfor/Real3DPortrait?style=social).
 - ``ICML 2023 Workshop`` [Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis](https://arxiv.org/abs/2306.03504) \| [**Video**](https://genefaceplusplus.github.io/GeneFace++/ada_tta.mp4)
 - ``NeurIPS 2022`` [Towards Effective Multi-Modal Interchanges in Zero-Resource Sounding Object Localization](https://openreview.net/forum?id=rQAJmrLmGC6)
 - ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740)

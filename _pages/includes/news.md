@@ -1,5 +1,8 @@
 # 🔥 News
-<!-- - *2024.02*: Our **voice cloning** is launched in Capcut at full stream! -->
+- *2024.10*: One paper is accepted by TAFFC!
+- *2024.09*: One paper is accepted by NeurIPS 2024!
+- *2024.07*: One paper is accpeted by TASLP!
+- *2024.02*: Our **voice cloning** is launched in Capcut at full stream!
 - *2024.01*: Two papers are accepted by ICLR 2024!
 - *2023.06*: One paper is accetped by ICML Workshop!
 - *2023.05*: One paper is accepted by TMM!
