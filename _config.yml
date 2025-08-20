@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Zhang (章晨)"
-description              : "Focusing on speech, music and multi-modal learning"
+description              : "Focusing on avatar, speech, music and multi-modal learning"
 repository               : "actuy/actuy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,7 +15,8 @@ google_scholar_stats_use_cdn : true
 # google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+# google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google-site-verification : xfE-vqNLOPPwSaD7o8KINxPfduXe3qT8N1BLncW5tZo
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -23,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Zhang (章晨)"
   avatar           : "images/avatar.png"
-  bio              : "ByteDance"
-  location         : "Shenzhen, Guangdong, China"
+  bio              : "FAIR, Meta"
+  location         : "Menlo Park, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eBBFeVcAAAAJ"

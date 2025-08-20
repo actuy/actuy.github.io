@@ -1,13 +1,16 @@
 # 🔥 News
-- *2024.10*: One paper is accepted by TAFFC!
-- *2024.09*: One paper is accepted by NeurIPS 2024!
-- *2024.07*: One paper is accpeted by TASLP!
-- *2024.02*: Our **voice cloning** is launched in Capcut at full stream!
-- *2024.01*: Two papers are accepted by ICLR 2024!
-- *2023.06*: One paper is accetped by ICML Workshop!
-- *2023.05*: One paper is accepted by TMM!
-- *2023.05*: One paper is accepted by INTERSPEECH 2023!
-- *2023.01*: One paper is accepted by ICLR 2023!
+- *2025.06*: 📢 The technical report of our [Seamless Interaction](https://ai.meta.com/research/seamless-interaction/) is released.
+- *2025.03*: I join FAIR <img src='./images/meta_logo.png' style="width: 3.5em;"> as a research engineer in Menlo Park, USA.
+- *2024.10*: 🎉 One paper is accepted by TAFFC!
+- *2024.09*: 🎉 One paper is accepted by NeurIPS 2024!
+- *2024.07*: 🎉 One paper is accpeted by TASLP!
+- *2024.02*: 📢 Our **voice cloning**  is launched in Capcut at full stream!
+- *2024.01*: 🎉 Two papers are accepted by ICLR 2024!
+- *2023.07*: I join ByteDance <img src='./images/bytedance_logo.png' style="width: 4em;"> as a research scientist in Shenzhen, China.
+<!-- - *2023.06*: One paper is accetped by ICML Workshop! -->
+<!-- - *2023.05*: One paper is accepted by TMM! -->
+<!-- - *2023.05*: One paper is accepted by INTERSPEECH 2023! -->
+<!-- - *2023.01*: One paper is accepted by ICLR 2023! -->
 <!-- - *2022.12*: 📢 An invited talk @ NUS. Thank Prof Wang for the invitation! -->
 <!-- - *2022.10*: One paper is accepted by EMNLP 2022! -->
 <!-- - *2022.09*: One paper is accepted by NeurIPS 2022! -->
