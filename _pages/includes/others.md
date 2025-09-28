@@ -12,3 +12,8 @@
 - *2022.03 - 2022.12*, [SEA AI Lab](https://sail.sea.com/), Singapore.
 - *2021.06 - 2021.11*, [ByteDance AI Lab](https://www.bytedance.com/en/), Speech & Audio Team, Shanghai, China.
 - *2019.07 - 2020.06*, [Microsoft Research Asia](https://www.msra.cn/), Machine Learning Group, Beijing, China.
+
+# ✏️ Service
+- Area Chair: ACL, EMNLP, NAACL.
+- Reviewer (Conference): ICLR, NeurIPS, CVPR, ICCV, MM, AAAI, etc.
+- Reviewer (Journal): Neural Networks, TASLP (Transactions on Audio, Speech and Language Processing), TMM (IEEE Transactions on Multimedia), etc.
