@@ -15,5 +15,6 @@
 
 # ✏️ Service
 - Area Chair: ACL, EMNLP, NAACL.
-- Reviewer (Conference): ICLR, NeurIPS, CVPR, ICCV, MM, AAAI, etc.
+- Senior Program Committee: AAAI.
+- Reviewer (Conference): ICLR, NeurIPS, CVPR, ICCV, ECCV, ICML, MM, etc.
 - Reviewer (Journal): Neural Networks, TASLP (Transactions on Audio, Speech and Language Processing), TMM (IEEE Transactions on Multimedia), etc.

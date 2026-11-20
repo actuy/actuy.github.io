@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.07*: 📢 [Muse Image/Video](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) are released.
+- *2026.01*: 🎉 One paper is accepted by CVPR 2026!
 - *2025.06*: 📢 The technical report of our [Seamless Interaction](https://ai.meta.com/research/seamless-interaction/) is released.
 - *2025.03*: I join FAIR <img src='./images/meta_logo.png' style="width: 3.5em;"> as a research engineer in Menlo Park, USA.
 - *2024.10*: 🎉 One paper is accepted by TAFFC!

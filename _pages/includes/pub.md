@@ -21,6 +21,7 @@ expressive-emphatic-ttsdemo.github.io/)
 - ``EMNLP 2022`` [TeleMelody: Lyric-to-Melody Generation with a Template-Based Two-Stage Method](https://aclanthology.org/2022.emnlp-main.364/) \| [**Project**](https://ai-muzic.github.io/telemelody/) 
 
 ## 🧑‍🎨 Multi-modal Learning
+- ``CVPR 2026`` [InfinityHuman: Towards Long-Term Audio-Driven Human Animation](https://arxiv.org/abs/2508.20210) \| [**Project**](https://infinityhuman.github.io/)
 - ``NeurIPS 2024`` [MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes](https://openreview.net/forum?id=gjEzL0bamb) \| [**Code**](https://mimictalk.github.io/) ![Github Stars](https://img.shields.io/github/stars/yerfor/MimicTalk?style=social).
 - ``ICLR 2024`` [Real3d-portrait: One-shot realistic 3d talking portrait synthesis](https://openreview.net/forum?id=7ERQPyR2eb) \| [**Project**](https://real3dportrait.github.io/) \| [**Code**](https://github.com/yerfor/Real3DPortrait) ![Github Stars](https://img.shields.io/github/stars/yerfor/Real3DPortrait?style=social).
 - ``ICML 2023 Workshop`` [Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis](https://arxiv.org/abs/2306.03504) \| [**Video**](https://genefaceplusplus.github.io/GeneFace++/ada_tta.mp4)
